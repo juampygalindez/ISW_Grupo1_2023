@@ -8,9 +8,9 @@
     ║    ║    ╚═ Parcial<<N>>
     ║    ║    	    ╠═ Ejercitación
     ║    ║     	    ╚═ Enunciados
-    ║    ╠═ Trabajos Conceptuales
-    ║    ║    ╚═ TrabajoConceptual<<n>>
-    ║    ╚═ Trabajos Prácticos
+    ║    ╠═ TrabajosConceptuales
+    ║    ║    ╚═ TrabajoConceptual<<N>>
+    ║    ╚═ TrabajosPrácticos
     ║              ╚═ TrabajoPractico<<N>>
     ╚═ MaterialDeEstudio
          ╠═ Bibliografia
