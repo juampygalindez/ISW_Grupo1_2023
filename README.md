@@ -6,7 +6,7 @@
     ║    ╠═ Parciales
     ║    ║    ╠═ Templates 
     ║    ║    ╚═ Parcial<<N>>
-    ║    ║    	    ╠═ Ejercitación
+    ║    ║    	    ╠═ Ejercitacion
     ║    ║         ╚═ Enunciados
     ║    ╠═ TrabajosConceptuales
     ║    ║    ╚═ TrabajoConceptual<<N>>
