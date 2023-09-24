@@ -10,7 +10,7 @@
     ║    ║         ╚═ Enunciados
     ║    ╠═ TrabajosConceptuales
     ║    ║    ╚═ TrabajoConceptual<<N>>
-    ║    ╚═ TrabajosPrácticos
+    ║    ╚═ TrabajosPracticos
     ║              ╚═ TrabajoPractico<<N>>
     ╚═ MaterialDeEstudio
          ╠═ Bibliografia
