@@ -30,3 +30,5 @@
 | Tempalte para parciales     | <Nom_Template>.<extension>       | ISW_Grupo1_2023/Cursado/Parciales/Tempaltes    |
 | Enunciados de parciales     | <Nom_Enunciado>.pdf      | ISW_Grupo1_2023/Cursado/Parciales/Parcial1/Enunciados   |
 | Notas clases     | Clase_<Teorico/Practico>_<Num>.<extension>     | ISW_Grupo1_2023/Cursado/NotasClases   | 
+| Trabajos conceptuales     | Trabajo_Conceptual_<Num>.<extension>     | ISW_Grupo1_2023/Cursado/TrabajosConceptuales   | 
+| Trabajos practicos     | Trabajo_Practico_<Num>.<extension>     | ISW_Grupo1_2023/Cursado/TrabajosPracticos   | 
