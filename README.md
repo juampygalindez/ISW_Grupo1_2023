@@ -34,7 +34,7 @@
 | Guia de trabajos     | <Nom_Guia_Trabajo>.pdf     | ISW_Grupo1_2023/MaterialDeEstudio/Practico/GuiasTrabajos  |
 
 | Sigla | Significado | 
-| :---         |     :---:      |
+| :---:         |     :---:      |
 | <Nom_Libro>   | Nombre del Libro     |
 | <Nro_Pres>   | Numero de Presentacion     |
 | <YY_Pres>   | Año de Presentacion     |
