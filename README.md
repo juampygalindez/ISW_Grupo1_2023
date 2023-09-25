@@ -40,7 +40,7 @@
 | <YY_Pres>   | Año de Presentacion     |
 | <Nom_Pres>   | Nombre del Libro     |
 | <Nom_Template>   | Nombre del Template     |
-| <extension>   | Extencion del item de configuracion     |
+| <extension\>   | Extencion del item de configuracion     |
 | <Teorico/Practico>   | Elegir opcion Teorico o Practico     |
-| <Nro>   | Numero     |
+| <Nro\>   | Numero     |
 | <Nom_Guia_Trabajo>   | Nombre de la Guia de Trabajos     |
