@@ -25,7 +25,7 @@
 | :---         |     :---:      |          ---: |
 | Libros de estudio   | <Nom_Libro>.pdf     | ISW_Grupo1_2023/MaterialDeEstudio/Bibliografia/Libros    |
 | Presentaciones de clases     | <Nro_Pres>_<YY_Pres>_<Nom_Pres>.pdf       | ISW_Grupo1_2023/MaterialDeEstudio/Teorico/Presentaciones    |
-| Tempalte para parciales     | <Nom_Template>.<extension>       | ISW_Grupo1_2023/Cursado/Parciales/Tempaltes    |
+| Tempalte para parciales     | <Nom_Template>.<extension\>       | ISW_Grupo1_2023/Cursado/Parciales/Tempaltes    |
 | Enunciados de parciales     | <Nom_Enunciado>.pdf      | ISW_Grupo1_2023/Cursado/Parciales/Parcial<<N>>/Enunciados   |
 | Notas clases     | Clase_<Teorico/Practico>_<Nro>.<extension>     | ISW_Grupo1_2023/Cursado/NotasClases   | 
 | Trabajos conceptuales     | Trabajo_Conceptual_<Nro>.<extension>     | ISW_Grupo1_2023/Cursado/TrabajosConceptuales   | 
