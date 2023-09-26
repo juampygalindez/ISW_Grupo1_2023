@@ -44,3 +44,8 @@
 | <Teorico/Practico>   | Elegir opcion Teorico o Practico     |
 | <Nro\>   | Numero     |
 | <Nom_Guia_Trabajo>   | Nombre de la Guia de Trabajos     |
+
+
+## Criterio para la creación de Líneas Base en nuestro Repositorio 
+En el contexto de nuestro repositorio "ISW_Grupo1_2023", una línea base se creará para capturar y marcar un estado específico de nuestros recursos relacionados con la materia de Ingeniería de Software. El objetivo principal de la creación de líneas base es mantener un registro de las versiones estables y aprobadas de nuestros archivos educativos y de referencia, lo que nos permite rastrear cambios importantes y garantizar la disponibilidad de versiones confiables para futuras referencias.
+
